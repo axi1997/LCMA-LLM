@@ -1,2 +1,2 @@
 # LCMA-LLM
-![Uploading 绘图2.jpg…]()
+![LCMA-LLM](lcma-llm.jpg)
