@@ -22,3 +22,6 @@ bash ./scripts/lcma/pretrain.sh
 ```
 bash ./scripts/lcma/finetune.sh
 ```
+
+##  Evaluation
+See [Evaluation.md](https://github.com/haotian-liu/LLaVA/blob/main/docs/Evaluation.md).
