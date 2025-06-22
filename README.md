@@ -26,7 +26,7 @@ The hyperparameters used in pretraining and finetuning are provided below.
 | LCMA      | 128 | 2e-5 |      2 | 2048 | 0 |
 
 ## Download
-[Phi-2](https://huggingface.co/susnato/phi-2)
+[Phi-2](https://huggingface.co/susnato/phi-2) and
 [SigLIP](https://huggingface.co/google/siglip-so400m-patch14-384)
 
 ## Training
