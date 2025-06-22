@@ -1,0 +1,1 @@
+from .model import LCMAPhiForCausalLM, LCMAGemmaForCausalLM
