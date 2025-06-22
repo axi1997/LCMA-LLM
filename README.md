@@ -46,6 +46,4 @@ bash ./scripts/lcma/finetune.sh
 See [Evaluation.md](https://github.com/haotian-liu/LLaVA/blob/main/docs/Evaluation.md).
 
 ##  Acknowledgments
-Thanks for these wonderful work!
-- [LLaVA](https://github.com/haotian-liu/LLaVA)
-- [LLaVA-Phi](https://github.com/xmoanvaf/llava-phi)
+Thanks for these wonderful work![LLaVA](https://github.com/haotian-liu/LLaVA) and [LLaVA-Phi](https://github.com/xmoanvaf/llava-phi)
